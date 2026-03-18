@@ -56,13 +56,10 @@ Bizneslar uchun **zamonaviy, xavfsiz va scalable** IT yechimlar ishlab chiqamiz.
 ---
 ## 🔥 Activity
 
-<<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamesUilson&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamesUilson&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JamesUilson&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesUilson&layout=compact&theme=radical" />
+</div>
 
 ## 🔐 Security Research (Proof)
 
