@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # har 12 soatda ishga tushadi
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Repo’ni checkout qilamiz
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2️⃣ Snake diagram generatsiya qilamiz
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,10 +20,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      # 3️⃣ Output branch ga push qilamiz PAT orqali
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          personal_token: ${{ secrets.GH_PAT }}   # ✅ PAT ishlatiladi
+          personal_token: ${{ secrets.GH_PAT }}  # ✅ shu token ishlaydi
           publish_dir: ./dist
           target_branch: output
