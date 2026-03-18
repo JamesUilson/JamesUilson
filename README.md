@@ -56,8 +56,12 @@ Bizneslar uchun **zamonaviy, xavfsiz va scalable** IT yechimlar ishlab chiqamiz.
 ---
 ## 🔥 Activity
 
+<<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JamesUilson&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baxatech&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamesUilson&theme=radical" />
 </p>
 
 ## 🔐 Security Research (Proof)
@@ -74,7 +78,7 @@ Bizneslar uchun **zamonaviy, xavfsiz va scalable** IT yechimlar ishlab chiqamiz.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/baxatech/baxatech/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/JamesUilson/JamesUilson/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 💼 Work With Us
